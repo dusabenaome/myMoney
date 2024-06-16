@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+    text {
+      font-family: 'Roboto', sans-serif;
+      font-weight: 700;
+      fill: #333;
+    }
+  </style>
+
+  <path d="M20 20h60v60H20V20zm5 5v50h50V25H25z" fill="#FFD700" />
+  <path d="M30 30h40v5H30v-5zm0 10h20v5H30v-5zm0 10h30v5H30v-5zm0 10h25v5H30v-5z" fill="#333" />
+</svg>
